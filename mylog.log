@@ -1,0 +1,234 @@
+[2020-02-05 14:47:02,063] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:02,079] - LINE:824 - DEBUG    - Starting new HTTPS connection (1): api.vk.com
+[2020-02-05 14:47:02,422] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/groups.get HTTP/1.1" 200 244
+[2020-02-05 14:47:02,422] - LINE:26 - INFO     - -135506050
+[2020-02-05 14:47:02,422] - LINE:28 - INFO     - 2 percent
+[2020-02-05 14:47:02,422] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:02,422] - LINE:824 - DEBUG    - Starting new HTTPS connection (1): api.vk.com
+[2020-02-05 14:47:02,609] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:02,609] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:02,765] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:02,765] - LINE:26 - INFO     - -103815643
+[2020-02-05 14:47:02,765] - LINE:28 - INFO     - 5 percent
+[2020-02-05 14:47:02,765] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:02,999] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:02,999] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:03,140] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:03,140] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:03,296] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:03,296] - LINE:26 - INFO     - -16833467
+[2020-02-05 14:47:03,296] - LINE:28 - INFO     - 8 percent
+[2020-02-05 14:47:03,296] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:03,483] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:03,483] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:03,670] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 80
+[2020-02-05 14:47:03,670] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:03,842] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:03,842] - LINE:26 - INFO     - -122602850
+[2020-02-05 14:47:03,842] - LINE:28 - INFO     - 11 percent
+[2020-02-05 14:47:03,842] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:03,951] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:03,951] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:04,114] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:04,114] - LINE:26 - INFO     - -88245281
+[2020-02-05 14:47:04,114] - LINE:28 - INFO     - 13 percent
+[2020-02-05 14:47:04,114] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:04,271] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:04,271] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:04,387] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:04,387] - LINE:26 - INFO     - -103817880
+[2020-02-05 14:47:04,387] - LINE:28 - INFO     - 16 percent
+[2020-02-05 14:47:04,387] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:04,543] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:04,543] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:04,667] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:04,667] - LINE:26 - INFO     - -116996233
+[2020-02-05 14:47:04,683] - LINE:28 - INFO     - 19 percent
+[2020-02-05 14:47:04,683] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:04,855] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:04,855] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:04,901] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 492
+[2020-02-05 14:47:05,907] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:06,032] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:06,032] - LINE:26 - INFO     - -159588004
+[2020-02-05 14:47:06,032] - LINE:28 - INFO     - 22 percent
+[2020-02-05 14:47:06,032] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:06,141] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:06,141] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:06,266] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:06,266] - LINE:26 - INFO     - -122502985
+[2020-02-05 14:47:06,266] - LINE:28 - INFO     - 25 percent
+[2020-02-05 14:47:06,266] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:06,391] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:06,391] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:06,522] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:06,523] - LINE:26 - INFO     - -139049305
+[2020-02-05 14:47:06,523] - LINE:28 - INFO     - 27 percent
+[2020-02-05 14:47:06,523] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:06,751] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:06,752] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:06,918] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:06,918] - LINE:26 - INFO     - -118396340
+[2020-02-05 14:47:06,918] - LINE:28 - INFO     - 30 percent
+[2020-02-05 14:47:06,918] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:07,090] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:07,090] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:07,404] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:07,404] - LINE:26 - INFO     - -78378069
+[2020-02-05 14:47:07,404] - LINE:28 - INFO     - 33 percent
+[2020-02-05 14:47:07,404] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:07,516] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:07,517] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:07,666] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:07,666] - LINE:26 - INFO     - -110327646
+[2020-02-05 14:47:07,666] - LINE:28 - INFO     - 36 percent
+[2020-02-05 14:47:07,666] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:07,806] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:07,806] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:07,983] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:07,983] - LINE:26 - INFO     - -186435805
+[2020-02-05 14:47:07,983] - LINE:28 - INFO     - 38 percent
+[2020-02-05 14:47:07,983] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:08,264] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:08,264] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:08,405] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:08,405] - LINE:26 - INFO     - -110018608
+[2020-02-05 14:47:08,405] - LINE:28 - INFO     - 41 percent
+[2020-02-05 14:47:08,405] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:08,559] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:08,559] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:08,683] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:08,683] - LINE:26 - INFO     - -53526385
+[2020-02-05 14:47:08,683] - LINE:28 - INFO     - 44 percent
+[2020-02-05 14:47:08,683] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:08,793] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:08,793] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:08,906] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:08,906] - LINE:26 - INFO     - -19334776
+[2020-02-05 14:47:08,906] - LINE:28 - INFO     - 47 percent
+[2020-02-05 14:47:08,906] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:09,031] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:09,031] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:09,213] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:09,214] - LINE:26 - INFO     - -17833376
+[2020-02-05 14:47:09,214] - LINE:28 - INFO     - 50 percent
+[2020-02-05 14:47:09,214] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:09,389] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:09,390] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:09,539] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:09,540] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:09,689] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:09,691] - LINE:26 - INFO     - -147087891
+[2020-02-05 14:47:09,691] - LINE:28 - INFO     - 52 percent
+[2020-02-05 14:47:09,691] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:09,890] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:09,890] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:10,032] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:10,033] - LINE:26 - INFO     - -158235103
+[2020-02-05 14:47:10,033] - LINE:28 - INFO     - 55 percent
+[2020-02-05 14:47:10,033] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:10,207] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:10,208] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:10,393] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:10,395] - LINE:26 - INFO     - -76677520
+[2020-02-05 14:47:10,395] - LINE:28 - INFO     - 58 percent
+[2020-02-05 14:47:10,395] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:10,725] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:10,726] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:10,877] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:10,877] - LINE:26 - INFO     - -87929067
+[2020-02-05 14:47:10,877] - LINE:28 - INFO     - 61 percent
+[2020-02-05 14:47:10,878] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:11,014] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:11,015] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:11,196] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:11,197] - LINE:26 - INFO     - -147958317
+[2020-02-05 14:47:11,197] - LINE:28 - INFO     - 63 percent
+[2020-02-05 14:47:11,197] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:11,303] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:11,304] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:11,335] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 493
+[2020-02-05 14:47:12,335] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:12,488] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:12,488] - LINE:26 - INFO     - -74144985
+[2020-02-05 14:47:12,488] - LINE:28 - INFO     - 66 percent
+[2020-02-05 14:47:12,488] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:12,629] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:12,630] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:12,853] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:12,853] - LINE:26 - INFO     - -85928959
+[2020-02-05 14:47:12,853] - LINE:28 - INFO     - 69 percent
+[2020-02-05 14:47:12,853] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:13,040] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:13,040] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:13,087] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:13,087] - LINE:26 - INFO     - -1177
+[2020-02-05 14:47:13,087] - LINE:28 - INFO     - 72 percent
+[2020-02-05 14:47:13,102] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:13,337] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:13,338] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:13,563] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:13,563] - LINE:26 - INFO     - -147643028
+[2020-02-05 14:47:13,563] - LINE:28 - INFO     - 75 percent
+[2020-02-05 14:47:13,563] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:13,688] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:13,688] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:13,789] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:13,790] - LINE:26 - INFO     - -126559275
+[2020-02-05 14:47:13,790] - LINE:28 - INFO     - 77 percent
+[2020-02-05 14:47:13,790] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:13,904] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:13,920] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:14,091] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:14,106] - LINE:26 - INFO     - -60556804
+[2020-02-05 14:47:14,106] - LINE:28 - INFO     - 80 percent
+[2020-02-05 14:47:14,106] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:14,221] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:14,221] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:14,376] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:14,376] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:14,575] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:14,575] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:14,731] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:14,732] - LINE:26 - INFO     - -41136564
+[2020-02-05 14:47:14,732] - LINE:28 - INFO     - 83 percent
+[2020-02-05 14:47:14,732] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:14,841] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:14,841] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:15,009] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:15,024] - LINE:26 - INFO     - -46489384
+[2020-02-05 14:47:15,024] - LINE:28 - INFO     - 86 percent
+[2020-02-05 14:47:15,024] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:15,134] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:15,134] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:15,308] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:15,324] - LINE:26 - INFO     - -77970644
+[2020-02-05 14:47:15,324] - LINE:28 - INFO     - 88 percent
+[2020-02-05 14:47:15,324] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:15,460] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:15,461] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:15,609] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:15,609] - LINE:26 - INFO     - -85152389
+[2020-02-05 14:47:15,609] - LINE:28 - INFO     - 91 percent
+[2020-02-05 14:47:15,609] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:15,729] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:15,730] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:15,861] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:15,861] - LINE:26 - INFO     - -87100272
+[2020-02-05 14:47:15,861] - LINE:28 - INFO     - 94 percent
+[2020-02-05 14:47:15,861] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:16,070] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:16,070] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:16,207] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
+[2020-02-05 14:47:16,207] - LINE:26 - INFO     - -135171533
+[2020-02-05 14:47:16,207] - LINE:28 - INFO     - 97 percent
+[2020-02-05 14:47:16,207] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:16,363] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:16,363] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:16,410] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 134
+[2020-02-05 14:47:16,410] - LINE:26 - INFO     - -152808478
+[2020-02-05 14:47:16,410] - LINE:28 - INFO     - 100 percent
+[2020-02-05 14:47:16,410] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:16,560] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/messages.send HTTP/1.1" 200 37
+[2020-02-05 14:47:16,560] - LINE:128 - DEBUG    - Prepare API Method request
+[2020-02-05 14:47:16,698] - LINE:396 - DEBUG    - https://api.vk.com:443 "POST /method/execute HTTP/1.1" 200 39
